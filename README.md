@@ -2,7 +2,7 @@
 ![alt text](http://i.imgur.com/kQaCX1r.png "Miokyo")
 
 
-Miokyo is a java applet inspired by the popular web-based online game, [Agar.io](http://agar.io/).
+Miokyo is a Java applet inspired by the popular web-based online game, [Agar.io](http://agar.io/).
 Miokyo was created with a partner for our 12th grade computer science class. 
 It demonstrates the use of basic object oriented programming, collision detection, and graphics. 
 
